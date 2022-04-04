@@ -1,5 +1,5 @@
 
-# Hi, I'm  Nassaka Resty👋🏼 👨🏻‍💻 <img src="https://github.com/TheChicThatCode/TheChicThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm  Nassaka Resty a web frontend designer👋🏼 👨🏻‍💻 <img src="https://github.com/TheChicThatCode/TheChicThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <table>
 <tr>
