@@ -5,11 +5,6 @@
 <tr>
   <td valign="center">
 
-
-<td >
-  <a href="https://app.daily.dev/Bkroland19"><img src="https://api.daily.dev/devcards/74efd5e2141a40ec876a4607bf0fd8fd.png?r=8q8" width="350" alt="bukenya kizza roland's Dev Card"/></a>
-  </td>
-
 </tr>
 </table>
 
